@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import SearchBar from './components/searchBar'
-import ImageList from './components/imageList'
+import SearchBar from './components/searchBar.jsx'
+import ImageList from './components/imageList.jsx'
 import searchImages from './api'
 import './App.css'
 
