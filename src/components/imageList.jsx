@@ -1,4 +1,4 @@
-import ImageShow from "./imageShow"
+import ImageShow from "./imageShow.jsx"
 import './imageList.css'
 
 const ImageList = ({images}) => {
